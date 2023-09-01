@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "dio_config.h": "c",
+        "dio_private.h": "c",
+        "dio_interface.h": "c",
+        "lcd_interface.h": "c",
+        "bit_math.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
